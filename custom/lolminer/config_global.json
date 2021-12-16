@@ -9,11 +9,11 @@
 
 	"HIVEOS" :
 	{
-		"COIN" : "BTG",
+		"COIN" : "AION",
 		"POOLS" : [
-			{"POOL" : "btg.2miners.com",
-			 "PORT" : "4040",
-			 "USER" : "GZxpcmN85n2TSA7j24nRqFWo6qnA7x94ZQ.lolMiner",
+			{"POOL" : "stratum.aionmine.org",
+			 "PORT" : "3333",
+			 "USER" : "0xa08e1166ec5d7e629d47932ec656af9835bbae973a1937edef4af19bd1f946cc.kotto78",
 			 "PASS" : "x"}
 		]
 	}
